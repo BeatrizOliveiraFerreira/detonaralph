@@ -1,6 +1,6 @@
 # Detona Ralph - Jogo Web
 
-#site - https://detonaralph.netlify.app/
+Projeto na  [Netlify](https://detonaralph.netlify.app/)
 
 Um jogo web inspirado no universo do filme Detona Ralph. Destrua os inimigos e acumule pontos!
 
@@ -28,5 +28,3 @@ Um jogo web inspirado no universo do filme Detona Ralph. Destrua os inimigos e a
 Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais detalhes.
 
 ---
-
-Projeto criado por [Seu Nome](https://github.com/seu-usuario)
