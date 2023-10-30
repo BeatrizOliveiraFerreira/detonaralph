@@ -21,14 +21,6 @@ Um jogo web inspirado no universo do filme Detona Ralph. Destrua os inimigos e a
 - CSS
 - JavaScript
 
-## Screenshots
-
-![Detona Ralph Gameplay](./src/images/screenshot.png)
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para obter mais detalhes.
